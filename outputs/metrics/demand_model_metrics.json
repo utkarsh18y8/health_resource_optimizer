@@ -1,0 +1,31 @@
+{
+  "model_type": "Random Forest Regressor",
+  "description": "Prototype demand estimation model (climate-aware disease cases)",
+  "samples_trained": 240,
+  "samples_tested": 60,
+  "mae": 616.25,
+  "rmse": 837.88,
+  "r2_score": 0.9973,
+  "feature_names": [
+    "enso_index",
+    "rainfall",
+    "rainfall_anomaly",
+    "temperature",
+    "temperature_anomaly",
+    "population",
+    "population_density",
+    "flood_risk",
+    "heatwave_risk"
+  ],
+  "feature_importances": {
+    "enso_index": 0.0004,
+    "rainfall": 0.0032,
+    "rainfall_anomaly": 0.0031,
+    "temperature": 0.0021,
+    "temperature_anomaly": 0.0005,
+    "population": 0.4342,
+    "population_density": 0.5494,
+    "flood_risk": 0.0039,
+    "heatwave_risk": 0.0032
+  }
+}
