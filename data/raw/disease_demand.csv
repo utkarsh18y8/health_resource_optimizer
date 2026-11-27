@@ -1,0 +1,11 @@
+district,vector_borne_risk,waterborne_disease_risk,disease_risk,estimated_disease_cases,vaccine_demand,medicine_demand,bed_demand,staff_demand,priority_score,risk_level
+Mumbai,0.924,0.596,0.776,76595,129292,102086,18199,1820,99.0,High
+Pune,0.575,0.486,0.535,35084,54994,44223,7490,749,57.3,Medium
+Nagpur,0.551,0.483,0.52,17021,26553,21378,3608,361,55.9,Medium
+Nashik,0.532,0.45,0.495,21766,33683,27175,4560,456,53.8,Medium
+Thane,0.666,0.462,0.574,43152,68482,54898,9381,938,61.5,Medium
+Chhatrapati Sambhajinagar,0.623,0.484,0.56,14025,22160,17784,3029,303,58.8,Medium
+Kolhapur,0.584,0.464,0.53,14323,22415,18033,3051,305,56.7,Medium
+Amravati,0.517,0.444,0.484,10147,15647,12635,2115,212,52.6,Medium
+Solapur,0.556,0.436,0.502,15458,23975,19332,3249,325,54.1,Medium
+Ratnagiri,0.711,0.527,0.628,6483,10464,8353,1444,144,63.8,Medium

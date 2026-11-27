@@ -1,0 +1,11 @@
+district,distance_from_supply_center,base_hospital_capacity,available_vaccines,available_medicines,available_beds,available_staff,transport_cost_per_unit,data_source_label
+Mumbai,15,24000,58667,55188,9513,1173,14.7,Synthetic Maharashtra Health Department logistics baseline
+Pune,152,16000,29834,19916,4115,382,39.36,Synthetic Maharashtra Health Department logistics baseline
+Nagpur,820,8500,10806,8709,2063,199,159.6,Synthetic Maharashtra Health Department logistics baseline
+Nashik,167,7200,12136,12384,2880,227,42.06,Synthetic Maharashtra Health Department logistics baseline
+Thane,35,14000,25953,27333,6071,468,18.3,Synthetic Maharashtra Health Department logistics baseline
+Chhatrapati Sambhajinagar,335,5500,10735,9823,1507,180,72.3,Synthetic Maharashtra Health Department logistics baseline
+Kolhapur,375,5800,9494,9494,1760,170,79.5,Synthetic Maharashtra Health Department logistics baseline
+Amravati,660,4200,5759,7165,1087,103,130.8,Synthetic Maharashtra Health Department logistics baseline
+Solapur,400,5100,8587,10017,1902,147,84.0,Synthetic Maharashtra Health Department logistics baseline
+Ratnagiri,330,2800,4734,3720,836,70,71.4,Synthetic Maharashtra Health Department logistics baseline

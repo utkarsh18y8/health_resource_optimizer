@@ -1,0 +1,73 @@
+year,month,enso_index,enso_state,data_source_label
+2021,1,-0.225,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,2,-0.147,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,3,-0.068,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,4,-0.064,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,5,-0.262,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,6,-0.412,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,7,-0.471,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,8,-0.621,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,9,-0.723,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,10,-0.633,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,11,-0.573,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2021,12,-0.423,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,1,-0.238,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,2,-0.236,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,3,-0.186,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,4,-0.168,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,5,-0.301,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,6,-0.384,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,7,-0.595,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,8,-0.73,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,9,-0.627,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,10,-0.671,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,11,-0.547,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2022,12,-0.471,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,1,-0.277,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,2,-0.135,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,3,-0.158,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,4,-0.121,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,5,-0.28,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,6,-0.415,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,7,-0.58,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,8,-0.567,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,9,-0.701,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,10,-0.713,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,11,-0.509,La Niña,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2023,12,-0.461,Neutral,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,1,1.51,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,2,1.512,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,3,1.584,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,4,1.62,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,5,1.537,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,6,1.359,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,7,1.194,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,8,1.075,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,9,0.976,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,10,1.054,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,11,1.177,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2024,12,1.403,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,1,1.037,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,2,0.879,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,3,0.863,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,4,0.735,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,5,0.65,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,6,0.674,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,7,0.718,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,8,0.787,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,9,0.816,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,10,0.938,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,11,1.036,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2025,12,1.089,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,1,1.751,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,2,1.857,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,3,1.845,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,4,1.807,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,5,1.816,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,6,1.718,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,7,1.521,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,8,1.484,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,9,1.418,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,10,1.401,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,11,1.543,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns
+2026,12,1.727,El Niño,Synthetic ONI demo series based on NOAA ONI anomaly patterns

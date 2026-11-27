@@ -1,0 +1,385 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Mumbai",
+        "state": "Maharashtra",
+        "population": 12442373,
+        "population_density": 20500,
+        "latitude": 19.076,
+        "longitude": 72.8777
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7977,
+              18.926
+            ],
+            [
+              72.9577,
+              18.926
+            ],
+            [
+              72.9577,
+              19.226
+            ],
+            [
+              72.7977,
+              19.226
+            ],
+            [
+              72.7977,
+              18.926
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Pune",
+        "state": "Maharashtra",
+        "population": 9429408,
+        "population_density": 603,
+        "latitude": 18.5204,
+        "longitude": 73.8567
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4567,
+              18.1704
+            ],
+            [
+              74.2567,
+              18.1704
+            ],
+            [
+              74.2567,
+              18.8704
+            ],
+            [
+              73.4567,
+              18.8704
+            ],
+            [
+              73.4567,
+              18.1704
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Nagpur",
+        "state": "Maharashtra",
+        "population": 4653570,
+        "population_density": 470,
+        "latitude": 21.1458,
+        "longitude": 79.0882
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              78.7382,
+              20.8458
+            ],
+            [
+              79.4382,
+              20.8458
+            ],
+            [
+              79.4382,
+              21.4458
+            ],
+            [
+              78.7382,
+              21.4458
+            ],
+            [
+              78.7382,
+              20.8458
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Nashik",
+        "state": "Maharashtra",
+        "population": 6107187,
+        "population_density": 393,
+        "latitude": 19.9975,
+        "longitude": 73.7898
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4398,
+              19.6775
+            ],
+            [
+              74.1398,
+              19.6775
+            ],
+            [
+              74.1398,
+              20.3175
+            ],
+            [
+              73.4398,
+              20.3175
+            ],
+            [
+              73.4398,
+              19.6775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Thane",
+        "state": "Maharashtra",
+        "population": 11060148,
+        "population_density": 1157,
+        "latitude": 19.2183,
+        "longitude": 72.9781
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.7581,
+              18.9683
+            ],
+            [
+              73.1981,
+              18.9683
+            ],
+            [
+              73.1981,
+              19.4683
+            ],
+            [
+              72.7581,
+              19.4683
+            ],
+            [
+              72.7581,
+              18.9683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Chhatrapati Sambhajinagar",
+        "state": "Maharashtra",
+        "population": 3701282,
+        "population_density": 366,
+        "latitude": 19.8762,
+        "longitude": 75.3433
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.0233,
+              19.5762
+            ],
+            [
+              75.6633,
+              19.5762
+            ],
+            [
+              75.6633,
+              20.1762
+            ],
+            [
+              75.0233,
+              20.1762
+            ],
+            [
+              75.0233,
+              19.5762
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Kolhapur",
+        "state": "Maharashtra",
+        "population": 3876001,
+        "population_density": 504,
+        "latitude": 16.705,
+        "longitude": 74.2433
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.9433,
+              16.425
+            ],
+            [
+              74.5433,
+              16.425
+            ],
+            [
+              74.5433,
+              16.985
+            ],
+            [
+              73.9433,
+              16.985
+            ],
+            [
+              73.9433,
+              16.425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Amravati",
+        "state": "Maharashtra",
+        "population": 2888445,
+        "population_density": 237,
+        "latitude": 20.932,
+        "longitude": 77.7523
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.4023,
+              20.612
+            ],
+            [
+              78.1023,
+              20.612
+            ],
+            [
+              78.1023,
+              21.252
+            ],
+            [
+              77.4023,
+              21.252
+            ],
+            [
+              77.4023,
+              20.612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Solapur",
+        "state": "Maharashtra",
+        "population": 4317756,
+        "population_density": 290,
+        "latitude": 17.6599,
+        "longitude": 75.9064
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              75.5264,
+              17.3099
+            ],
+            [
+              76.2864,
+              17.3099
+            ],
+            [
+              76.2864,
+              18.0099
+            ],
+            [
+              75.5264,
+              18.0099
+            ],
+            [
+              75.5264,
+              17.3099
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Ratnagiri",
+        "state": "Maharashtra",
+        "population": 1615262,
+        "population_density": 197,
+        "latitude": 16.9902,
+        "longitude": 73.312
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.132,
+              16.5902
+            ],
+            [
+              73.492,
+              16.5902
+            ],
+            [
+              73.492,
+              17.3902
+            ],
+            [
+              73.132,
+              17.3902
+            ],
+            [
+              73.132,
+              16.5902
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
